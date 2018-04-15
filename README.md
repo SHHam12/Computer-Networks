@@ -5,3 +5,7 @@ Overview of computer networks and the Internet. Concept of end systems, access n
 + First create a text file called test.txt and type in that file the following sentence: +++Hello Congratulation. CSE310 assignment is done with success+++
 + Note that this text file should be placed in the same folder where you keep the server program. On the terminal, type telnet localhost port (this is the port number you defined in the server program)
 + type GET /test.txt
+
+## Assignment2
++ In this lab, you will gain a better understanding of Internet Control Message Protocol (ICMP). You will learn to implement a Ping application using ICMP request and reply messages.
++ sudo python icmp_python3.py
