@@ -9,3 +9,8 @@ Overview of computer networks and the Internet. Concept of end systems, access n
 ## Assignment2
 + In this lab, you will gain a better understanding of Internet Control Message Protocol (ICMP). You will learn to implement a Ping application using ICMP request and reply messages.
 + sudo python icmp_python3.py
+
+## Assignment3
++ Implement	the	vector	state	routing	algorithm	in	Python.	Then using	your	script find	the	shortest
+path	from	node	x	to	y	in	the	graph	given	below.
++ Your code	should	print	out	the	shortest path	and	minimum cost.
